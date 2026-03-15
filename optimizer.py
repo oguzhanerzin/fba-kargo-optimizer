@@ -9,7 +9,7 @@ import math
 MAKS_GERCEK    = 46.0
 MAKS_HACIMSEL  = 64.0
 IDEAL_HACIMSEL = 49.0
-SCALE          = 1000
+SCALE          = 100
 
 
 def optimize(sku_listesi: list[dict]) -> dict:
